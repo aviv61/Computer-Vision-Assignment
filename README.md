@@ -11,7 +11,7 @@ uncomment the first cell in Preparing CoCO Dataset.
 
 The submission contains two parts:
 
-The first part is the complete task, using two models I preform crop to the image and make a skyless image
+The first part is the complete task, using two models I preform crop to the Dataset and make a skyless images
 The second part is inference to show with the visualization the progress after each part.
 
 In both parts I am giving attention to the possability of the original image being skyless or sky full.
