@@ -18,5 +18,6 @@ In both parts I am giving attention to the possability of the original image bei
 
 To complete this task I used:
 
-Detectron2 tutorial.\n
+Detectron2 tutorial.
+
 For the Sky Segmentation https://www.gopichandrakesan.com/day-80-coco-panoptic-segmentation-detectron2-computer-vision-by-facebook-ai-research-fair/
